@@ -1,0 +1,8 @@
+Membre du groupe :
+- FEUKOU Vannel
+- Ahmed Trabelsi
+
+
+Dépôt GitHub : https://github.com/varde11/blackHoleVR
+
+Aujourd'hui, nous avons défini le game design et l'architecture d'un jeu VR sur Unity où le joueur guide un trou noir au pointeur laser à travers trois boucles de galaxies (planètes puis trous noirs prédateurs) pour absorber des astres par spaghettification selon leur masse.
