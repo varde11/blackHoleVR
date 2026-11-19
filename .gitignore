@@ -1,0 +1,10 @@
+# Mascot generator script (local tool, not part of the game assets)
+Mascot/build_mascot.py
+
+# Blender backup files
+*.blend1
+*.blend2
+
+# OS / editor noise
+Thumbs.db
+.DS_Store
